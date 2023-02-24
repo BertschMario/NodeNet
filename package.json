@@ -1,16 +1,23 @@
 {
-  "name": "nodenet",
+  "name": "@nodenet/cli",
   "version": "0.0.1",
   "description": "A nodeJS based server framework for building simple and fast server applications",
   "main": "index.js",
   "type": "commonjs",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
     "nodenet": "bin/nodenet.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "NodeJS",
+    "NodeJS Server",
+    "NodeNet",
+    "NodeNet CLI",
+    "NodeNet Server"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "
+  },
+  "author": "Mario Bertsch",
+  "license": "MIT"
 }
