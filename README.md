@@ -18,7 +18,7 @@ ServerStructure:&emsp;&emsp;**v0.0.1**
 
 ## Doc
 
-[Doc](github.com/BertschMario/NodeNet/wiki)
+[Doc](wiki)
 
 ## Usage
 
