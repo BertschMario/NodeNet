@@ -6,7 +6,7 @@ It is still in development and not ready for use.
 ### DevelopmentStatus
 
 CLI:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **v1.0.0** \
-ServerStructure:&emsp;&emsp;**v1.0.3**
+ServerStructure:&emsp;&emsp;**v1.0.4**
 
 ---
 
