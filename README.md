@@ -1,7 +1,7 @@
 # NodeNet CLI
 
 This is the CLI for NodeNet. \
-It is still in development and not ready for use.
+It is still in early development and not perfect!
 
 ### DevelopmentStatus
 
