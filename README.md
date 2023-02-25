@@ -1,12 +1,9 @@
 # NodeNet CLI
 
-This is the CLI for NodeNet. \
-It is still in early development and not perfect!
-
 ### DevelopmentStatus
 
-CLI:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **v0.0.1** \
-ServerStructure:&emsp;&emsp;**v0.0.1**
+CLI: **v0.1.0**  
+Core: **v0.1.0**
 
 ---
 
@@ -16,9 +13,9 @@ ServerStructure:&emsp;&emsp;**v0.0.1**
 
 ---
 
-## Doc
+## Documentation
 
-[Doc](../../wiki)
+[Documentation](../../wiki)
 
 ## Usage
 

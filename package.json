@@ -1,6 +1,6 @@
 {
   "name": "@nodenet/cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A nodeJS based server framework for building simple and fast server applications",
   "main": "index.js",
   "type": "commonjs",
