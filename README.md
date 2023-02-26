@@ -2,8 +2,8 @@
 
 ### DevelopmentStatus
 
-CLI: **v0.1.0**  
-Core: **v0.1.0**
+CLI: **v0.2.0** | Websocket Update  
+Core: **v0.2.0** | Websocket Update
 
 ---
 
