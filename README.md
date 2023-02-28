@@ -9,7 +9,8 @@ Core: **v0.2.0** | Websocket Update
 
 ## Installation
 
-`npm install @nodenet/cli --global`
+`npm install @nodenet/cli --global`  
+Start Server: (Inside project) `npm run start`
 
 ---
 
