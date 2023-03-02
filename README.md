@@ -17,7 +17,7 @@ Please feel free to submit ideas or bugs, just create an Issue.
 
 ## Documentation
 
-[Documentation](../../wiki)
+[Documentation](../../wiki) (Better docs upcoming)
 
 ## Usage
 
