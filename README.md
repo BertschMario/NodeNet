@@ -2,8 +2,8 @@
 
 ### DevelopmentStatus
 
-CLI: **v0.2.5** | Swagger Update  
-Core: **v0.2.5** | Swagger Update
+CLI: **v0.2.6** | Swagger Update  
+Core: **v0.2.6** | Swagger Update
 
 Please feel free to submit ideas or bugs, just create an Issue.
 
