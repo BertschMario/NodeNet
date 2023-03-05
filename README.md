@@ -17,7 +17,7 @@ Please feel free to submit ideas or bugs, just create an Issue.
 
 ## Documentation
 
-http://www.nodenet.wiki
+https://www.nodenet.wiki
 
 ## Usage
 
