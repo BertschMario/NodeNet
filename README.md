@@ -2,8 +2,8 @@
 
 ### DevelopmentStatus
 
-CLI: **v0.2.6** | Swagger Update  
-Core: **v0.2.6** | Swagger Update
+CLI: **v0.3.0** | JWT Auth Update  
+Core: **v0.3.0** | JWT Auth Update
 
 Please feel free to submit ideas or bugs, just create an Issue.
 
