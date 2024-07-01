@@ -1,3 +1,6 @@
+# Important
+- The last update of NodeNet was over a year ago, a new update will arive as soon as possible!
+
 # NodeNet CLI
 
 ### DevelopmentStatus
